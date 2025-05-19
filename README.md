@@ -10,13 +10,11 @@ JJWCons/JJWCons is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-GPEN-2E8B57?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-GSEC-D71A28?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GPYC-003366?&style=for-the-badge&logoColor=white" />
 </div>
