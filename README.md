@@ -18,4 +18,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-GPEN-2E8B57?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GSEC-D71A28?&style=for-the-badge&logoColor=white" />
 </div>
