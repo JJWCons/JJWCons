@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @JJWCons
-- 👀 I’m interested in learning everyday and making new things
-- 🌱 I’m currently learning Network Monitoring and Threat Detection
-- 💞️ I’m looking to collaborate on cyber security projects and develop coding tools with python
-- 📫 How to reach me ... stand-by adding an address soon
-- ⚡ Fun fact: It's hot here
+# Hello, I'm JJCons
+<a href="https://linkedin.com/in/william-c-544746197/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I'm a cyber security student working toward a career in technology with a dedication to solving complex problems.
+- 👀 I’m interested in learning everyday and making new things.
+- 🌱 I’m currently learning Network Monitoring and Threat Detection.
+- 💞️ I’m looking to collaborate on cyber security projects and develop coding tools with python.
+- 📫 How to reach me ... stand-by adding an address soon.
+- ⚡ Fun fact: It's hot here 24/7!
 
 <!---
 JJWCons/JJWCons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
