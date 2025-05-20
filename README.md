@@ -1,7 +1,7 @@
 # Hello, I'm JJWCons
 <a href="https://linkedin.com/in/william-c-544746197/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a cyber security student working toward a career in technology with a dedication to solving complex problems.
+I'm a cybersecurity student transitioning from the military, driven by a passion for technology and problem-solving. My extensive education in security fuels my commitment to protecting and innovating in the digital world.
 - 👀 I’m interested in learning everyday and making new things.
 - 🌱 I’m currently learning Network Monitoring and Threat Detection.
 - 💞️ I’m looking to collaborate on cyber security projects and develop coding tools with python.
